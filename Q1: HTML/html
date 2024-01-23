@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <title>Sachina's Portfolio</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="hero">
+            <h1>Hi, I'm Sachina</h1>
+            <p>A focused and talented B.Sc.CSIT student currently pursuing my bachelor degree from Asian School of Management and Technology.</p>
+            <a href="#contact" class="button">Hire me!</a>
+        </section>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Insert your about me text here.</p>
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>UI/UX Design</li>
+                <li>HTML/CSS</li>
+                <li>JavaScript</li>
+                <li>Other skills you want to highlight</li>
+            </ul>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <a href="project1.html">Project 1</a>
+                    <p>Insert a brief description of Project 1 here.</p>
+                </li>
+                <li>
+                    <a href="project2.html">Project 2</a>
+                    <p>Insert a brief description of Project 2 here.</p>
+                </li>
+                <li>
+                    <a href="project3.html">Project 3</a>
+                    <p>Insert a brief description of Project 3 here.</p>
+                </li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>Insert your contact information here.</p>
+        </section>
+    </main>
+</body>
+</html>
